@@ -1,3 +1,3 @@
 Games Writen in the C++ programing language
-=========
-These files are raw .cpp files (simple text) and need to be compiled in order to work. I wrote them useing the code:block compiler so if you are using something different and its not working try that compiler. Also, some of the header files are only going to work for windows.
+===========================================
+I have writen a few short games that are played only on the command line. The raw ccp files will required you to compile them inorder to play them. I have also, added the exe files so that if you want to just try them without the hassel of compiling them!
