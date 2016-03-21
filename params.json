@@ -1,0 +1,6 @@
+{
+  "name": "C-plus-plus-games",
+  "tagline": "Games written C++  and played on the command line the games are: Black Jack, Guess Number, Rock Paper Scissors, Slot Machine, Tic Tac Toe, Hal 2001, Hang Man",
+  "body": "Simple games that where created when I was learning the C++ language. They are just run using standard input/output on the command line. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
